@@ -1,1 +1,1 @@
-Redirects to: https://samirpaulb.github.io
+Redirects to: redirect-samirp.vercel.app -> samirpaulb.github.io
